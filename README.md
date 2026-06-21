@@ -1,2 +1,1 @@
-# python-
-it is a python repository
+print("Hello, I am Prethvi")
